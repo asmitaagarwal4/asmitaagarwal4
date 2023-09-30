@@ -18,11 +18,11 @@
   <img height="183" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmita2809&langs_count=10&layout=compact&theme=dark" />
 </p> -->
 <p>
- - 🔭 I’m currently working on [College Projects](https://github.com/sinhariti/LearnAce)<br>
- - 🌱 I’m currently learning **DSA, Web Development**<br>
- - 💬 Ask me about **C++, Art&Craft**<br>
- - 📫 How to reach me **asmitaagarwal4@gmail.com**<br>
- - ⚡ Fun fact: "Change is the only constant in life"<br>
+ - 🔭 I’m currently working on <a href="https://github.com/sinhariti/LearnAce" target="_blank" rel="noreferrer">College Project</a><br>
+ - 🌱 I’m currently learning <b>DSA, Web Development</b><br>
+ - 💬 Ask me about <b>C++, Art&Craft</b><br>
+ - 📫 How to reach me <b><a href="mailto:asmitaagarwal4@gmail.com" target="_blank" rel="noreferrer">asmitaagarwal4@gmail.com</a></b><br>
+ - ⚡ Fun fact: <b>"Change is the only constant in life"</b><br>
 </p>
 
 <h3 align="left">Connect with me:</h3>
