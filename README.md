@@ -19,7 +19,7 @@
 </p> -->
 <p>
  - 🔭 I’m currently working on <a href="https://github.com/sinhariti/LearnAce" target="_blank" rel="noreferrer">College Project</a><br>
- - 🌱 I’m currently learning <b>DSA, Web Development</b><br>
+ - 🌱 I’m currently learning <b>Web Development</b><br>
  - 💬 Ask me about <b>C++, Art&Craft</b><br>
  - 📫 How to reach me <b><a href="mailto:asmitaagarwal4@gmail.com" target="_blank" rel="noreferrer">asmitaagarwal4@gmail.com</a></b><br>
  - ⚡ Fun fact: <b>"Change is the only constant in life"</b><br>
