@@ -11,12 +11,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<!-- ## Github Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=asmita2809&count_private=true&show_icons=true&theme=dark" />
- 
-  <img height="183" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmita2809&langs_count=10&layout=compact&theme=dark" />
-</p> -->
 <p>
  - 🔭 I’m currently working on <a href="https://github.com/sinhariti/LearnAce" target="_blank" rel="noreferrer">College Project</a><br>
  - 🌱 I’m currently learning <b>Web Development</b><br>
@@ -30,6 +24,13 @@
   <a href="www.linkedin.com/in/asmita-agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="@sinha_riti" height="30" width="40" /></a>
   <a href="https://instagram.com/asmita_ag5?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ritisinha" height="30" width="40" /></a>
 </p>
+
+## Github Stats
+<p align="center">
+<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=asmita2809&count_private=true&show_icons=true&theme=dark" /> -->
+ 
+  <img align="left" height="183" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmita2809&langs_count=10&layout=compact&theme=dark" />
+</p> 
 
 <!--
 **Asmita2809/asmita2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
