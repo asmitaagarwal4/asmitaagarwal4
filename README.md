@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Asmita Agarwal</h1>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
 - 👨‍💻 All of my projects are available at: [Repositories](https://github.com/asmitaagarwal4?tab=repositories)
 
 - 💬 Ask me about: **Java, Art&craft**
 
 - 📫 How to reach me: [**asmitaagarwal4@gmail.com**](mailto:asmitaagarwal4@gmail.com)
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/drive/folders/1Sl7rAWnk7M_VJKpwberBhnipI6t_M1-H?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://github.com/asmitaagarwal4/Resume/blob/main/Asmita_Agarwal_resume.pdf)
 
 - ⚡ Fun fact: **"The only constant in life is change"**
 
